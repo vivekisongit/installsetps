@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: app-depl
-        image: rajanirr/devops-angular-client:latest
+        image: 40009456/docker-spring-boot:latest
         ports:
-        - containerPort: 80
+        - containerPort: 85
