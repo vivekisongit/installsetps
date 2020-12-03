@@ -18,4 +18,4 @@ spec:
       - name: app-depl
         image: 40009456/docker-spring-boot:latest
         ports:
-        - containerPort: 85
+        - containerPort: 8085

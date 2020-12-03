@@ -8,6 +8,6 @@ spec:
     app: native
   ports:
     - protocol: TCP
-      port: 85
-      targetPort: 85
+      port: 8085
+      targetPort: 8085
       nodePort: 30007
